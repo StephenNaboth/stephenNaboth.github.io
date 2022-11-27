@@ -20,7 +20,7 @@ description: 'Flexibility is essential for growth.'
 twitter_username: stivologos
 github_username: stephennaboth
 linkedin_username: stephen-naboth-5a4549100
-minimal_mistakes_skin: air #mint #dark # default
+minimal_mistakes_skin: contrast #neon #air #mint #dark # default
 search: true
 
 # Build settings
