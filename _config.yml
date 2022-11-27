@@ -26,8 +26,8 @@ search: true
 # Build settings
 markdown: kramdown
 repistory: stephennaboth/stephennaboth.github.io
-#remote_theme: mmistakes/minimal-mistakes
-theme: "minimal-mistakes-jekyll"
+remote_theme: mmistakes/minimal-mistakes
+#theme: "minimal-mistakes-jekyll"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Stephen N"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I grew up in Nairobi,Kenya, where I studied mathematics for my undergraduate degree at University of Nairobi. Following that, I did my Master's of Science in Mathematical Modelling in Engineering under Mathmods program at the University of L'Aquila and University in Hamburg. In my spare time, I enjoy connecting with friends on social media, gaming and football."
+  avatar : "/assets/images/profile.jpg "   #images/bio-photo.jpg"
+  bio    : "I am a Mathematician with research interest in Computational mathematics, Modelling in Engineering and Machine learning."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
