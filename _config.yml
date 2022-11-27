@@ -122,6 +122,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+logo: "/assets/images/logo_2.jpg"
+
+
 comments:
   provider: "utterances"
   utterances:
