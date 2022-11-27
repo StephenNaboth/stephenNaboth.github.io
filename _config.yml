@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Stephen N"
   avatar : "/assets/images/profile.jpg "   #images/bio-photo.jpg"
-  bio    : "I am a Mathematician with research interest in Computational mathematics, Modelling in Engineering and Machine learning."
+  bio    : "Flexibility is essential for growth."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -137,4 +137,10 @@ tag_archive:
   type: liquid
   path: /tags/
 
-
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
