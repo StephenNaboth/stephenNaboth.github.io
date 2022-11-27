@@ -20,7 +20,7 @@ description: I am a Mathematician with an understanding of Modelling in Engineer
 twitter_username: stivologos
 github_username: stephennaboth
 linkedin_username: stephen-naboth-5a4549100
-minimal_mistakes_skin: mint #dark # default
+minimal_mistakes_skin: air #mint #dark # default
 search: true
 
 # Build settings
@@ -126,7 +126,7 @@ comments:
   provider: "utterances"
   utterances:
     theme: "github-light" #"github-dark"
-    issue_term:  #"pathname"
+    issue_term: "pathname"
     #label: "comment" # Optional - must be existing label.
 
 category_archive:
