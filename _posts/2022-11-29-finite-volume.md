@@ -1,5 +1,5 @@
 ---
-title: "Some Finite Volume schemes"
+title: "Finite Volume schemes"
 excerpt_separator: "<!--more-->"
 categories:
   - Mathematics
