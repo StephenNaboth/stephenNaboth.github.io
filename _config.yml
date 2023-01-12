@@ -23,6 +23,12 @@ linkedin_username: stephen-naboth-5a4549100
 minimal_mistakes_skin: contrast #neon #air #mint #dark # default
 search: true
 
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "stephennaboth"
+
 # Build settings
 markdown: kramdown
 repistory: stephennaboth/stephennaboth.github.io
